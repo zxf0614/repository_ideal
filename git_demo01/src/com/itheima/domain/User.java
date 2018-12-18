@@ -6,6 +6,8 @@ public class User {
 
     private String address;
 
+    private String jjj;
+
     public User(String name, int age) {
         this.name = name;
         this.age = age;
